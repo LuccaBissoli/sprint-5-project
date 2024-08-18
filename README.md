@@ -11,3 +11,5 @@ Histogramas: Estes gráficos ajudam a visualizar a distribuição dos dados em i
 Gráficos de Dispersão: Esses gráficos permitem explorar a relação entre duas variáveis. O aplicativo possibilita a criação de um gráfico de dispersão que correlaciona "odometer" (quilometragem) com o "price" (preço) dos carros, ajudando a identificar padrões ou tendências entre essas duas variáveis.
 
 A interface do aplicativo é projetada para ser altamente intuitiva. Com apenas alguns cliques, os usuários podem selecionar e visualizar diferentes tipos de gráficos, facilitando a análise e interpretação dos dados. Os botões interativos tornam a navegação simples e direta, permitindo que você explore as diversas visualizações oferecidas pelo aplicativo de maneira eficiente e sem complicações.
+
+https://sprint-5-project-9c60.onrender.com
